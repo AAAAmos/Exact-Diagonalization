@@ -20,7 +20,6 @@ from quspin.tools.lanczos import (
 from quspin.tools.evolution import expm_multiply_parallel
     
 import numpy as np
-import networkx as nx  
 import matplotlib.pyplot as plt  # plotting library
 from time import time
 import scipy as sp
